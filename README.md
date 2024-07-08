@@ -4,11 +4,20 @@
 
 ---
 
-<img src="https://github.com/tango3383/BO2-Helper-Utility/blob/main/docs/images/img1.png" width = "35%" height ="35%">
+<h2> Features </h2>
+- Clean BO2 Maps
+- Remove all lights
+- Add UDS and UDW
+- Change player class and team
+- Change weapon 
+- Create Level Sequences
+- Import CAST and FBX files
 
-<img src="https://github.com/tango3383/BO2-Helper-Utility/blob/main/docs/images/img2.png" width = "35%" height ="35%">
+---
 
-<img src="https://github.com/tango3383/BO2-Helper-Utility/blob/main/docs/images/img3.png" width = "35%" height ="35%">
+<h2> How to install</h2>
+
+Download the latest release from <a href = ""> here </a>, then go to your unreal engine project directory, and drag and drop ```BO2-Helper-Utility``` into the ```Content``` Folder. The next time you opent UE, go into your content browser, go into ```BO2-Helper-Utility```, and right click ```BO2_Helper```. You should see a context menu, and click the option 'Run Editor Utility Widget'. 
 
 ---
 
