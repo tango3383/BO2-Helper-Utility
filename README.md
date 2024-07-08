@@ -1,6 +1,6 @@
 # BO2-Helper-Utility
 
-BO2 Helper Utility is an unreal engine utility widget that speeds up the workflow for CoD to UE. It includes an importer for .CAST and .FBX, A Sequence Creator, a Player Changer, and a Weapon Changer, aswell as some clean up and UDS settings.
+<p>BO2 Helper Utility is an unreal engine utility widget that speeds up the workflow for CoD to UE. It includes an importer for .CAST and .FBX, A Sequence Creator, a Player Changer, and a Weapon Changer, aswell as some clean up and UDS settings. </p>
 
 ---
 
@@ -12,7 +12,8 @@ BO2 Helper Utility is an unreal engine utility widget that speeds up the workflo
 
 ---
 <h2> Socials </h2>
-<p> Discord: <a href = "https://discord.gg/T73zwe9z" </a> </p>
-<p> Youtube: <a href = "https://www.youtube.com/channel/UCS1LI3Aku5ABEzdiwV-P6KA" </a> </p>
+ <a href="https://discord.gg/T73zwe9z">Discord</a> 
+ <a href="https://www.youtube.com/channel/UCS1LI3Aku5ABEzdiwV-P6KA">YouTube</a> 
+
 
 
