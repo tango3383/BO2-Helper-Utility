@@ -12,6 +12,7 @@
 
 ---
 <h2> Socials </h2>
+
  <a href="https://discord.gg/T73zwe9z">Discord</a> 
  
  <a href="https://www.youtube.com/channel/UCS1LI3Aku5ABEzdiwV-P6KA">YouTube</a> 
