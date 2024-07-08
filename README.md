@@ -5,13 +5,15 @@
 ---
 
 <h2> Features </h2>
+<ol>
 - Clean BO2 Maps
 - Remove all lights
 - Add UDS and UDW
 - Change player class and team
 - Change weapon 
-- Create Level Sequences
-- Import CAST and FBX files
+<li> Create Level Sequences </li>
+<li> Import CAST and FBX files </li>
+</ol>
 
 ---
 
