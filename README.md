@@ -19,7 +19,7 @@
 
 <h2> How to install</h2>
 
-Download the latest release from <a href = ""> here </a>, then go to your unreal engine project directory, and drag and drop ```BO2-Helper-Utility``` into the ```Content``` Folder. The next time you opent UE, go into your content browser, go into ```BO2-Helper-Utility```, and right click ```BO2_Helper```. You should see a context menu, and click the option 'Run Editor Utility Widget'. This would also be a good time to go to 'Edit', 'Plugins', and enable ```Python Editor Script Plugin```, ```Sequencer Scripting```, and ```Low Entry - Extended Standard Library```. IF you do not want to install these now, when you run the Utility Widget it will prompt you to install them. 
+Download the latest release from <a href = "https://github.com/tango3383/BO2-Helper-Utility/releases/"> here </a>, then go to your unreal engine project directory, and drag and drop ```BO2-Helper-Utility``` into the ```Content``` Folder. The next time you opent UE, go into your content browser, go into ```BO2-Helper-Utility```, and right click ```BO2_Helper```. You should see a context menu, and click the option 'Run Editor Utility Widget'. This would also be a good time to go to 'Edit', 'Plugins', and enable ```Python Editor Script Plugin```, ```Sequencer Scripting```, and ```Low Entry - Extended Standard Library```. IF you do not want to install these now, when you run the Utility Widget it will prompt you to install them. 
 ---
 
 <footer>
