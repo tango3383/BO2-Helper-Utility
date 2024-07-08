@@ -12,5 +12,7 @@ BO2 Helper Utility is an unreal engine utility widget that speeds up the workflo
 
 ---
 <h2> Socials </h2>
-Discord: 
+<p> Discord: <a href = "https://discord.gg/T73zwe9z" </a> </p>
+<p> Youtube: <a href = "https://www.youtube.com/channel/UCS1LI3Aku5ABEzdiwV-P6KA" </a> </p>
+
 
