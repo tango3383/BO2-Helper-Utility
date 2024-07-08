@@ -9,7 +9,7 @@
 <li> Clean BO2 maps. </li>
 <li> Remove all lights from level. </li>
 <li> Add UDS and UDW to level. </li>
--<li> Change player class and team. </li>
+<li> Change player class and team. </li>
 <li> Change weapons. </li>
 <li> Create Level Sequences. </li>
 <li> Import CAST and FBX files. </li>
