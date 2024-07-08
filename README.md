@@ -12,10 +12,8 @@
 
 ---
 
-
-
 <footer>
- <h2> Socials </h2>
+ <h2> Where you can find me: </h2>
 
  <a href="https://discord.gg/T73zwe9z">Discord</a> 
  
